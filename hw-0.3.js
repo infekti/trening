@@ -3,3 +3,5 @@ const sayHelloLinting = (fName) => {
 };
 
 sayHelloLinting("Oksana");
+
+let x = 5
